@@ -135,7 +135,7 @@ npx prisma generate       # regenerate Prisma client
 # Start Redis
 sudo service redis-server start   # Linux/WSL
 
-npm run dev               # nodemon on :3000
+npm run dev               # nodemon on :300
 ```
 
 ---
